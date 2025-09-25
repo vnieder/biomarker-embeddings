@@ -1,0 +1,4 @@
+/data
+*.parquet
+/loinc_snomed_embeddings
+/__pycache__
